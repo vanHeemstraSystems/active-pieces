@@ -1,8 +1,8 @@
-repositorio
+piezas activas
 
-# Nombre de repositorio
+# Piezas activas
 
-> Línea de babosa
+> Automatización de flujo de trabajo
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
