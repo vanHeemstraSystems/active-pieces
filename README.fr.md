@@ -2,11 +2,11 @@ pièces actives
 
 # Pièces actives
 
-> Automatisation du flux de travail
+> Automatisation du workflow
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glossaire](./GLOSSARY.md)
 -   [Trappe](./HATCH.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
