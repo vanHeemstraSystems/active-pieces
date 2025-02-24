@@ -6,7 +6,7 @@
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
--   [शब्दकोष](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [हैच](./HATCH.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
@@ -20,7 +20,7 @@
 
 मूलपाठ
 
-के साथ उत्पन्न[रिट्र](https://app.rytr.me)
+Generated with [रिट्र](https://app.rytr.me)
 
 ## 100 - परिचय
 
