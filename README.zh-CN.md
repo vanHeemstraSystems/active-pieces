@@ -2,7 +2,7 @@
 
 # 活跃的碎片
 
-> Workflow Automation
+> 工作流自动化
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
@@ -12,13 +12,13 @@
 -   [图像](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
--   [References](./REFERENCES.md)
+-   [参考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
 -   [遥测](./TELEMETRY.md)
 
 **执行摘要**
 
-文本
+Text
 
 生成[ritr](https://app.rytr.me)
 
@@ -36,4 +36,4 @@
 
 ## 400-结论
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
