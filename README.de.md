@@ -1,14 +1,14 @@
-Repository-Namen
+aktive Stücke
 
-# Repository -Name
+# Aktive Stücke
 
-> Slugline
+> Workflow -Automatisierung
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Luke](./HATCH.md)
--   [Hosts](./HOSTS.md)
+-   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
 -   [NX](./NX.md)
 -   [Subman](./PODMAN.md)
