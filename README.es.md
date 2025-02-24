@@ -1,6 +1,6 @@
 piezas activas
 
-# Piezas activas
+# Active Pieces
 
 > Automatización de flujo de trabajo
 
