@@ -1,6 +1,6 @@
 pièces actives
 
-# Pièces actives
+# Active Pieces
 
 > Automatisation du workflow
 
