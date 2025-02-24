@@ -1,8 +1,8 @@
-nom de référentiel
+pièces actives
 
-# Nom de référentiel
+# Active Pieces
 
-> Lisc
+> Automatisation du workflow
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
