@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+active-pieces
+# Active Pieces
 
-> Slugline
+> Workflow Automation
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
