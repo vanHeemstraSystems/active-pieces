@@ -2,7 +2,7 @@ actiefstukken
 
 # Actieve stukken
 
-> Workflow Automation
+> Workflow -automatisering
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
@@ -11,7 +11,7 @@ actiefstukken
 -   [Gastheren](./HOSTS.md)
 -   [Beelden](./IMAGES.md)
 -   [Nx](./NX.md)
--   [Podman](./PODMAN.md)
+-   [Subman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
@@ -20,7 +20,7 @@ actiefstukken
 
 Tekst
 
-Gegenereerd met[Ritr](https://app.rytr.me)
+Gegenereerd met[Rytr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
