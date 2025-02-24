@@ -7,11 +7,11 @@ actiefstukken
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
--   [Klep](./HATCH.md)
+-   [Hatch](./HATCH.md)
 -   [Gastheren](./HOSTS.md)
 -   [Beelden](./IMAGES.md)
 -   [Nx](./NX.md)
--   [Subman](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
@@ -22,17 +22,17 @@ Tekst
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
-## 100 - Inleiding
+## 100 - Introduction
 
 Zien[README.md](./100/README.md)
 
 ## 200 - Vereisten
 
-Zien[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - onze applicatie bouwen
 
-Zien[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Conclusie
 
