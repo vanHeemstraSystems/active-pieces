@@ -5,8 +5,8 @@ aktive Stücke
 > Workflow -Automatisierung
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
--   [Glossar](./GLOSSARY.md)
+-   [Dokumentation](./DOCUMENTATION.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Luke](./HATCH.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
@@ -24,9 +24,9 @@ Erzeugt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
-See [README.md](./100/README.md)
+Sehen[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Anforderungen
 
 Sehen[README.md](./200/README.md)
 
