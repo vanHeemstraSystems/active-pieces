@@ -16,4 +16,6 @@ See [README.md](./300/README.md)
 
 See [README.md](./400/README.md)
 
-MORE ...
+## 500 - How to Setup Conditions
+
+See [README.md](./500/README.md)
