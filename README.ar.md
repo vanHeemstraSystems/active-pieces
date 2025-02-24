@@ -1,6 +1,6 @@
-repository-name
+اسم المستودع
 
-# Repository Name
+# اسم المستودع
 
 > Slugline
 
@@ -8,7 +8,7 @@ repository-name
 -   [الوثائق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [فتحة](./HATCH.md)
--   [المضيفين](./HOSTS.md)
+-   [Hosts](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [NX](./NX.md)
 -   [رجل فرعي](./PODMAN.md)
