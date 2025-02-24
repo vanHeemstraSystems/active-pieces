@@ -1,6 +1,6 @@
-active-pieces
+actiefstukken
 
-# Active Pieces
+# Actieve stukken
 
 > Workflow -automatisering
 
