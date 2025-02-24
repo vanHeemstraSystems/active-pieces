@@ -13,7 +13,7 @@ piezas activas
 -   [Nx](./NX.md)
 -   [Submario](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
--   [Requisitos](./REQUIREMENTS.md)
+-   [Requirements](./REQUIREMENTS.md)
 -   [Telemetría](./TELEMETRY.md)
 
 **Resumen ejecutivo**
@@ -34,6 +34,6 @@ Ver[README.md](./200/README.md)
 
 Ver[README.md](./300/README.md)
 
-## 400 - Conclusión
+## 400 - Conclusion
 
 Ver[README.md](./400/README.md)
