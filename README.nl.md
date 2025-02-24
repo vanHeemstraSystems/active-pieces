@@ -2,7 +2,7 @@ actiefstukken
 
 # Actieve stukken
 
-> Workflow -automatisering
+> Workflow Automation
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
@@ -11,7 +11,7 @@ actiefstukken
 -   [Gastheren](./HOSTS.md)
 -   [Beelden](./IMAGES.md)
 -   [Nx](./NX.md)
--   [Subman](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
 -   [Telemetrie](./TELEMETRY.md)
@@ -32,7 +32,7 @@ Zien[README.md](./200/README.md)
 
 ## 300 - onze applicatie bouwen
 
-See [README.md](./300/README.md)
+Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
