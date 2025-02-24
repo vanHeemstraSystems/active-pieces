@@ -1,8 +1,8 @@
 active-pieces
 
-# Actieve stukken
+# Active Pieces
 
-> Workflow Automation
+> Workflow -automatisering
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
