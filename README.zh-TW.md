@@ -1,4 +1,4 @@
-活躍材料
+active-pieces
 
 # 活躍的碎片
 
@@ -8,8 +8,8 @@
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
--   [主持人](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [Hosts](./HOSTS.md)
+-   [圖像](./IMAGES.md)
 -   [nx](./NX.md)
 -   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
@@ -20,7 +20,7 @@
 
 文字
 
-Generated with [ritr](https://app.rytr.me)
+生成[ritr](https://app.rytr.me)
 
 ## 100-簡介
 
