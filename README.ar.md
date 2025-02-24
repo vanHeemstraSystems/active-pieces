@@ -9,18 +9,18 @@
 -   [مسرد](./GLOSSARY.md)
 -   [فتحة](./HATCH.md)
 -   [المضيفين](./HOSTS.md)
--   [الصور](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [NX](./NX.md)
 -   [رجل فرعي](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [متطلبات](./REQUIREMENTS.md)
--   [القياس عن بعد](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
 نص
 
-ولدت مع[ريتر](https://app.rytr.me)
+Generated with [ريتر](https://app.rytr.me)
 
 ## 100 - مقدمة
 
@@ -30,10 +30,10 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 - بناء تطبيقنا
+## 300 - Building Our Application
 
 يرى[README.md](./300/README.md)
 
 ## 400 - الخلاصة
 
-يرى[README.md](./400/README.md)
+See [README.md](./400/README.md)
