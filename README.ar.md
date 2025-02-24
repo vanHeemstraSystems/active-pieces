@@ -2,7 +2,7 @@
 
 # قطع نشطة
 
-> Workflow Automation
+> أتمتة سير العمل
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
@@ -16,7 +16,7 @@
 -   [متطلبات](./REQUIREMENTS.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 نص
 
