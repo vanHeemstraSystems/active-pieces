@@ -1,6 +1,6 @@
 active-pieces
 
-# Active Pieces
+# 活跃的碎片
 
 > 工作流自动化
 
@@ -11,7 +11,7 @@ active-pieces
 -   [主持人](./HOSTS.md)
 -   [图像](./IMAGES.md)
 -   [nx](./NX.md)
--   [Subman](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [参考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
 -   [遥测](./TELEMETRY.md)
