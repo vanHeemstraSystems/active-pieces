@@ -1,8 +1,8 @@
 pièces actives
 
-# Active Pieces
+# Pièces actives
 
-> Automatisation du workflow
+> Automatisation du flux de travail
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
