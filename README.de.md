@@ -1,4 +1,4 @@
-active-pieces
+aktive Stücke
 
 # Aktive Stücke
 
