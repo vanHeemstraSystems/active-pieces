@@ -14,7 +14,7 @@ pièces actives
 -   [Sous-homme](./PODMAN.md)
 -   [Références](./REFERENCES.md)
 -   [Exigences](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
 
@@ -28,9 +28,9 @@ Voir[README.md](./100/README.md)
 
 ## 200 - exigences
 
-See [README.md](./200/README.md)
+Voir[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
