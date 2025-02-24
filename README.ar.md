@@ -2,7 +2,7 @@
 
 # قطع نشطة
 
-> أتمتة سير العمل
+> Workflow Automation
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
