@@ -11,3 +11,4 @@ You can also install Hatch as an application on [Windows and Mac](https://hatch.
 
 We'll **not** add ```hatch``` to the ```requirements.txt``` file, as it is used purely to manage the development and build of the application but is not part of the aplication.
 
+- Active Pieces: an account with [Cloud Active Pieces](https://cloud.activepieces.com/)
