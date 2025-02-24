@@ -1,4 +1,4 @@
-aktive Stücke
+active-pieces
 
 # Aktive Stücke
 
@@ -6,7 +6,7 @@ aktive Stücke
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [Glossar](./GLOSSARY.md)
 -   [Luke](./HATCH.md)
 -   [Gastgeber](./HOSTS.md)
 -   [Bilder](./IMAGES.md)
